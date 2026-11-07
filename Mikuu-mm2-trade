@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mikuuu-lua/Main/refs/heads/main/Mikuu-Hub-Mm2.lua"))()
